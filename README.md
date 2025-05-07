@@ -144,7 +144,7 @@ The primary training run used **5,000 samples** over 4 epochs with the same mode
 
 | Summary | Generated Headline | Actual Headline |
 |--------|---------------------|-----------------|
-| A teenage girl returns home to find her parents fatally shot in a robbery. | Authorities confirm that James and Lillian Carter were fatally shot | [As in dataset] |
+| Dwayne ‘The Rock’ Johnson made an appearance on Impact Wrestling’s Bound For Glory PPV. He was there to induct former rival and real-life friend Ken Shamrock. ‘The World’s Most Dangerous Man’ faced T… [+2422 chars] ... | Dwayne The Rock Johnson inducts former rival Ken Shamrock - PPV | WWE Legend The Rock Makes a Special Appearance on Impact Wrestling - EssentiallySports |
 
 ---
 
